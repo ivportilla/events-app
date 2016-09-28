@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/eventsApp",
+  "public": "../public/",
+  "sqlite": "../data/db.sqlite",
+  "auth": {
+    "token": {
+      "secret": "toqp2Mupxpl/kAD1Cl5EMUNTCoovFE837NaYXaaEuGKAHCykwHNjEbeMow+nh4DJXhTyw1V+PjtI36XJgxszQw=="
+    },
+    "local": {}
+  }
+}
