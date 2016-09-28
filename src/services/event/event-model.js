@@ -19,7 +19,7 @@ module.exports = function(sequelize) {
     address: {
       type: Sequelize.STRING
     },
-    creator: {
+    author_id: {
       type: Sequelize.STRING,
       allowNull: false
     },
